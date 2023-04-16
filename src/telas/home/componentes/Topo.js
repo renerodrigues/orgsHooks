@@ -29,7 +29,7 @@ class Topo extends React.Component {
 
 const estilos = StyleSheet.create({
     topo: {
-        backgroundColor: '#F6F6F6',
+        backgroundColor: '#828282',
         padding: 16
 
     },
@@ -44,12 +44,12 @@ const estilos = StyleSheet.create({
         fontSize: 26,
         lineHeight: 42,
         fontWeight: 'bold',
-        color: '#424242'
+        color: '#464646'
     },
     legenda: {
         fontSize: 16,
         lineHeight: 26,
-        color: '#A2A2A2'
+        color: '#555555'
     }
 
 })
